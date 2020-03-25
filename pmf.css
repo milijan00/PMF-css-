@@ -295,7 +295,7 @@
 /*
     FLEX
 */
-d-flex {
+.d-flex {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
